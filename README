@@ -1,5 +1,5 @@
 # sql-parser
-Syntax &amp; Token Parser
+Syntax & Token Parser
 
 Use case 
 1. It can that we make a transfiler such as Babel 
