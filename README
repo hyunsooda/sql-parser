@@ -2,7 +2,7 @@
 Syntax & Token Parser
 
 Use case 
-1. It can that we make a transfiler like Babel 
+1. It can that we make a transfiler like a Babel 
 2. It can that we make a syntax parser which is fitted to our purpose. 
 3. It can that we make a simple flexible commands for user intraction
 
