@@ -8,3 +8,17 @@ Use case
 
 Conclusively, we can make a our syntax and use for something.
 Regular expression can't analysis and parse the token string. it can just only recognize token, not syntax.
+
+
+[How to Run]
+
+0. yacc -d sql.y
+1. lex sql.l
+2. yacc sql.y
+3. gcc y.tab.c -ll -ly
+4. ./a.out
+
+> ./a.out
+> Enter the query: select id from tt;
+> INPUT ACCEPTED....
+
