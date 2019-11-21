@@ -2,11 +2,11 @@
 Syntax & Token Parser
 
 Use case 
-1. It can that we make a transfiler like a Babel 
-2. It can that we make a syntax parser which is fitted to our purpose. 
-3. It can that we make a simple flexible commands for user intraction
+1. It can do something that we make a transfiler like a Babel 
+2. It can do something that we make a syntax parser which is fit to our purpose. 
+3. It can do something that we make a simple flexible commands for user intraction
 
-Conclusively, we can make a our syntax and use for something.
+Conclusively, we can make an our syntax and use for specific purpose.
 Regular expression can't analysis and parse the token string. it can just only recognize token, not syntax.
 
 
